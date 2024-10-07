@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.5 (2026-03-16)
+
+- Add README badges
+- Synchronize version across Cargo.toml, README, and CHANGELOG
+
 ## 0.1.0 (2026-03-15)
 
 - Initial release
