@@ -12,7 +12,7 @@ Fully RFC 4180 compliant: supports quoted fields, escaped quotes, newlines withi
 
 ```toml
 [dependencies]
-philiprehberger-csv-toolkit = "0.1"
+philiprehberger-csv-toolkit = "0.1.6"
 ```
 
 ## Usage
