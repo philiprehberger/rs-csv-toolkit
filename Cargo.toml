@@ -1,10 +1,13 @@
 [package]
 name = "philiprehberger-csv-toolkit"
-version = "0.1.6"
+version = "0.1.7"
 edition = "2021"
 authors = ["Philip Rehberger"]
 description = "High-level CSV reading, writing, and manipulation"
 license = "MIT"
 repository = "https://github.com/philiprehberger/rs-csv-toolkit"
+readme = "README.md"
+rust-version = "1.70"
+documentation = "https://docs.rs/philiprehberger-csv-toolkit"
 keywords = ["csv", "data", "parsing", "tabular", "reader"]
 categories = ["parser-implementations", "encoding"]
