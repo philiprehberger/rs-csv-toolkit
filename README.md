@@ -4,9 +4,7 @@
 [![Crates.io](https://img.shields.io/crates/v/philiprehberger-csv-toolkit.svg)](https://crates.io/crates/philiprehberger-csv-toolkit)
 [![License](https://img.shields.io/github/license/philiprehberger/rs-csv-toolkit)](LICENSE)
 
-High-level CSV reading, writing, and manipulation with zero dependencies.
-
-Fully RFC 4180 compliant: supports quoted fields, escaped quotes, newlines within fields, and delimiter auto-detection.
+High-level CSV reading, writing, and manipulation
 
 ## Installation
 
