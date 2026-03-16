@@ -1,6 +1,6 @@
 [package]
 name = "philiprehberger-csv-toolkit"
-version = "0.1.5"
+version = "0.1.6"
 edition = "2021"
 authors = ["Philip Rehberger"]
 description = "High-level CSV reading, writing, and manipulation"
