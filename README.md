@@ -12,7 +12,7 @@ Fully RFC 4180 compliant: supports quoted fields, escaped quotes, newlines withi
 
 ```toml
 [dependencies]
-philiprehberger-csv-toolkit = "0.1.6"
+philiprehberger-csv-toolkit = "0.1.7"
 ```
 
 ## Usage
@@ -108,6 +108,14 @@ assert_eq!(reader.get(0, "age"), Some("30"));
 |---------|-------------|
 | `IoError(String)` | File I/O error |
 | `ParseError { line, message }` | CSV parsing error |
+
+
+## Development
+
+```bash
+cargo test
+cargo clippy -- -D warnings
+```
 
 ## License
 
