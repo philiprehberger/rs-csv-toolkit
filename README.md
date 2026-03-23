@@ -10,12 +10,10 @@ High-level CSV reading, writing, and manipulation
 
 ```toml
 [dependencies]
-philiprehberger-csv-toolkit = "0.1.7"
+philiprehberger-csv-toolkit = "0.1.8"
 ```
 
 ## Usage
-
-### Reading CSV
 
 ```rust
 use philiprehberger_csv_toolkit::CsvReader;

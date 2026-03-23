@@ -1,9 +1,14 @@
 # Changelog
 
+## 0.1.8 (2026-03-22)
+
+- Fix README and CHANGELOG compliance
+
 ## 0.1.7 (2026-03-17)
 
 - Add readme, rust-version, documentation to Cargo.toml
 - Add Development section to README
+
 ## 0.1.6 (2026-03-16)
 
 - Update install snippet to use full version
