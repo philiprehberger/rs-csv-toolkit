@@ -3,6 +3,7 @@
 [![CI](https://github.com/philiprehberger/rs-csv-toolkit/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/rs-csv-toolkit/actions/workflows/ci.yml)
 [![Crates.io](https://img.shields.io/crates/v/philiprehberger-csv-toolkit.svg)](https://crates.io/crates/philiprehberger-csv-toolkit)
 [![License](https://img.shields.io/github/license/philiprehberger/rs-csv-toolkit)](LICENSE)
+[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ec6cb9)](https://github.com/sponsors/philiprehberger)
 
 High-level CSV reading, writing, and manipulation
 
